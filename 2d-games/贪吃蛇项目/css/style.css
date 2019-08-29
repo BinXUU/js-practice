@@ -1,6 +1,14 @@
 #map {
-  width: 800px;
-  height: 600px;
-  background-color: lightgray;
-  position: relative;
+   width: 800px;
+   height: 600px;
+   float: left;
+   background-color: lightgray;
+   position: relative;
+ }
+
+#scoreboard {
+  left: 1500px;
+  top: 100px;
+  font-size: 50px;
+  position: absolute;
 }
